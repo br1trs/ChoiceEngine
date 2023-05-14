@@ -1,0 +1,17 @@
+You are a survivor in a post-apocalyptic world infested with zombies. You have heard that there is a safe haven for survivors in a nearby city and you decide to undertake the perilous journey there. Your mission is to make wise decisions and ensure that you survive the dangers in the road and reach a safe place|Use the main road|2|Take the road less traveled|3|false
+You go down the main road and you meet several zombies. What do you do?|fight zombies|9|run|12|false
+You come across a police barrier that covers the road, what do you do?|investigate restaurant to find a way to go around|8|jump the barrier|4|false
+When you jump over the barrier, a zombie grabs your foot and bites you, you fall on the other side, you see some lights at the end of the street|go to abandoned ambulance|6|go towards the light|7|false
+The closer you get to the light, you realize that it is a security post and there are uninfected people| |5| |5|false
+you find yourself with 3 bandages and a frenzy|continue|7|continue|7|false
+The light you saw is a refuge, a base with survivors, they are being attacked by zombies|help them|13|do not help|14|false
+You find an energy drink and a door to the back, when you open the door a zombie appears|continue|11|continue|11|false
+You see a hospital in front of you, what do you do?|Go to the hospital|10|ignore hospital|15|true
+You get a key from the monster|Continue your path|11|investigate the hospital|16|true
+After several hours of walking, you finally arrive at a shelter where you are received and you live peacefully for the rest of your life.|YAY|01|YAY|01|true
+You run away and the zombies chase you, but you manage to escape.|continue|3|continue|3|false
+Congratulations, you have saved the camp, now you are a zombie, but everyone will remember you as a hero.|YAY|01|YAY?|01|false
+Now you are a zombie, thanks to the death, there is a camp with humans, so you eat them|YAY|01|YAY|01|false
+Injured and tired, you continue advancing on the highway, you find a person alive on the ground, he tells you that there is no shelter, everyone is infected|don't believe him|13|believe him|14|false
+you realize that the key is for a bunker under the hospital, where you find people and security|YAY|01|YAY|01|false
+With your strength you can't do anything and you are eaten by zombies|YAY|01|YAY|01|false

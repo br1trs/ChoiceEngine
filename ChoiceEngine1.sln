@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoiceEngine1", "ChoiceEngine1\ChoiceEngine1.csproj", "{06EDD27B-BC68-402D-ABA6-96804BB3E440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombiesRun", "ZombiesRun\ZombiesRun.csproj", "{A298BFE8-4FF1-4A95-B03A-96278EF4DBB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EDD27B-BC68-402D-ABA6-96804BB3E440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EDD27B-BC68-402D-ABA6-96804BB3E440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EDD27B-BC68-402D-ABA6-96804BB3E440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EDD27B-BC68-402D-ABA6-96804BB3E440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A298BFE8-4FF1-4A95-B03A-96278EF4DBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A298BFE8-4FF1-4A95-B03A-96278EF4DBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A298BFE8-4FF1-4A95-B03A-96278EF4DBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A298BFE8-4FF1-4A95-B03A-96278EF4DBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
